@@ -34,7 +34,8 @@ writes it to a bitemporal ledger, and anchors daily to Bitcoin — a tamper-evid
 
 | Repo | What it is | Ships to |
 |------|-----------|----------|
-| [IRL-engine-AX](https://github.com/macropulse-lab/IRL-engine-AX) | IRL Engine — pre-execution compliance gateway | self-host |
+| [irl](https://github.com/macropulse-lab/irl) | IRL Engine — pre-execution compliance gateway (FSL-1.1-ALv2, free to use) | self-host |
+| [irl-gateway](https://github.com/macropulse-lab/irl-gateway) | MCP server: give any AI agent a trading mandate it can't break | PyPI · `irl-gateway` · MCP Registry |
 | [irl-public-docs](https://github.com/macropulse-lab/irl-public-docs) | Protocol spec, whitepaper, integration guides | — |
 | [irl-sdk-python](https://github.com/macropulse-lab/irl-sdk-python) | IRL client SDK (Python) | PyPI · `irl-sdk` |
 | [irl-sdk-ts](https://github.com/macropulse-lab/irl-sdk-ts) | IRL client SDK (TypeScript) | npm · `irl-sdk` |
